@@ -1,0 +1,36 @@
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li {
+    float: left;
+    }
+    li a {
+        display: block;
+        color: White;
+        text-align: center;
+        padding: 14px 16px;
+        background-color: grey;
+    }
+    li a:hover {
+        background-color: black;
+    }
+    h1 {
+        text-align: center;
+        font-size: 60px;
+        color: cornsilk;
+    }
+    .myback {
+        background-size: cover;
+    }
+    .column {
+        margin-left: 580px;
+        border: 4px black;
+    }
+    p {
+        color: cornsilk;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
